@@ -2,7 +2,7 @@ package base;
 import java.io.*;
 import java.util.*;
 import java.text.DecimalFormat;
-// comentario
+// comentario en principal
 public class bidaiakapp {
 
     static String[] destinos;
